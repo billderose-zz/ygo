@@ -1,4 +1,0 @@
-ygo
-===
-
-Yelp dataset
