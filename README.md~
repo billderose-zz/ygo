@@ -1,8 +1,0 @@
-ygo
-===
-
-<<<<<<< HEAD
-Yelp dataset
-=======
-Simple JSON unmarshaling example using Yelp's JSON objects and Go's encoding/json package.
->>>>>>> 999254e2e09cc38501c08594699694a5232d2543
